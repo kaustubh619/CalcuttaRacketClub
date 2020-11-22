@@ -1,0 +1,1 @@
+web: gunicorn calcutta_racket_club.wsgi
